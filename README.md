@@ -1,2 +1,2 @@
 # CS3354-Assignment-02
-CS3354 Assignment 2 Shop Manager
+Shape List App CS3354 Assignment 2
